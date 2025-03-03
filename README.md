@@ -6,28 +6,23 @@ This Power BI project focuses on analyzing sales performance and market trends f
 ### Dataset
 
 The project leverages several key tables:
-
-### Customers: Contains customer details and demographics.
-
-### Dates: Provides a date hierarchy for time-based analysis.
-
-### Products: Includes product details such as categories, pricing, and performance.
-
-### Transactions: Stores sales records, including revenue, quantity sold, and store location.
+Customers: Contains customer details and demographics.
+Dates: Provides a date hierarchy for time-based analysis.
+Products: Includes product details such as categories, pricing, and performance.
+Transactions: Stores sales records, including revenue, quantity sold, and store location.
 
 ### Key Features
 
-### Sales Trends Over Time: Visualizations that showcase revenue trends across various time periods, helping to identify growth patterns.
+Sales Trends Over Time: Visualizations that showcase revenue trends across various time periods, helping to identify growth patterns.
 
-### Store Performance Analysis: Evaluates sales performance at the store level to determine high and low-performing locations.
+Store Performance Analysis: Evaluates sales performance at the store level to determine high and low-performing locations.
 
-#### Product Analysis: Highlights top-selling products, product contribution to overall sales, and product performance trends over time.
+Product Analysis: Highlights top-selling products, product contribution to overall sales, and product performance trends over time.
 
-### Market Comparison: Interactive charts that compare sales across different regions to assess market dynamics.
+Market Comparison: Interactive charts that compare sales across different regions to assess market dynamics.
+Insights & Benefits
 
-### Insights & Benefits
-
-### By exploring this Power BI project, users can:
+By exploring this Power BI project, users can:
 
 Understand sales performance at different levels (store, product, region, time period).
 
